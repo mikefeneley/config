@@ -7,3 +7,4 @@ set shiftwidth=4
 set expandtab
 
 inoremap jk <ESC>
+noremap :W :w
