@@ -8,3 +8,5 @@ set expandtab
 
 inoremap jk <ESC>
 noremap :W :w
+
+noremap hh :w\|:!python %<cr>
